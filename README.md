@@ -48,9 +48,9 @@ The goal of SIS HOLO is to explore a simple question:
 The project reimagines the smartphone as an emotionally intelligent digital
 companion that responds to both the user and their surrounding context.
 
-## 🎨 My Role — Designer
+## 🎨 My Role — Team leader and lead contributor
 
-As the designer of the project, my contributions focused on translating the
+As lead contributor of the project, my contributions focused on translating the
 concept into a clear and visually engaging product experience.
 
 My contributions included:
@@ -60,8 +60,7 @@ My contributions included:
 - Exploring Y2K and retro-futuristic design elements
 - Designing visual materials used to communicate the product concept
 - Contributing to the presentation and storytelling of the proposed AI features
-- Collaborating with team members to translate technical ideas into an
-  understandable product experience
+- Generating and tweaking the AI-generated videos
 
 ## 🔮 Key Concept Features
 
